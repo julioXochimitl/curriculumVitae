@@ -1,0 +1,168 @@
+/* IMG */
+#uacm{
+    background-image: url(../img/uacm_01.jpg);
+    background-position: center;
+    height: 40px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 50%, 100% 50%, 100% 0, 0 0);
+    transition: 2s;
+}
+#uacm:hover{
+    background-image: url(../img/uacm_01.jpg);
+    background-position: center;
+    height: 248px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 100%, 100% 100%, 100% 0, 0 0);
+    transition: 2s;
+    margin-bottom: 5px;
+}
+
+/* IMG RIVERA'S SMOKER */
+
+#rsBF{
+    background-image: url(../img/rsBF.jpg);
+    background-position: center;
+    height: 40px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 50%, 100% 50%, 100% 0, 0 0);
+    transition: 2s;
+}
+#rsBF:hover{
+    background-image: url(../img/rsBF.jpg);
+    background-position: center;
+    height: 425px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 100%, 100% 100%, 100% 0, 0 0);
+    transition: 2s;
+    margin-bottom: 5px;
+}
+
+#rsMenu{
+    background-image: url(../img/rsMenu.jpg);
+    background-position: center;
+    height: 40px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 50%, 100% 50%, 100% 0, 0 0);
+    transition: 2s;
+}
+#rsMenu:hover{
+    background-image: url(../img/rsMenu.jpg);
+    background-position: center;
+    height: 490px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 100%, 100% 100%, 100% 0, 0 0);
+    transition: 2s;
+    margin-bottom: 5px;
+}
+
+#rsCM{
+    background-image: url(../img/rsCM.jpg);
+    background-position: center;
+    height: 40px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 50%, 100% 50%, 100% 0, 0 0);
+    transition: 2s;
+}
+#rsCM:hover{
+    background-image: url(../img/rsCM.jpg);
+    background-position: center;
+    height: 550px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 100%, 100% 100%, 100% 0, 0 0);
+    transition: 2s;
+    margin-bottom: 5px;
+}
+
+/* BOOTSTRAP DESTINY */
+
+#bsDestiny{
+    background-image: url(../img/bsDestiny.jpg);
+    background-position: center;
+    height: 40px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 50%, 100% 50%, 100% 0, 0 0);
+    transition: 2s;
+}
+#bsDestiny:hover{
+    background-image: url(../img/bsDestiny.jpg);
+    background-position: center;
+    height: 233px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 100%, 100% 100%, 100% 0, 0 0);
+    transition: 2s;
+    margin-bottom: 5px;
+}
+
+/* BRIEFCASE */
+
+#destinyHtml{
+    background-image: url(../img/destinyHTML.jpg);
+    background-position: center;
+    height: 40px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 50%, 100% 50%, 100% 0, 0 0);
+    transition: 2s;
+}
+#destinyHtml:hover{
+    background-image: url(../img/destinyHTML.jpg);
+    background-position: center;
+    height: 233px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 100%, 100% 100%, 100% 0, 0 0);
+    transition: 2s;
+    margin-bottom: 5px;
+}
+
+#destinyBS{
+    background-image: url(../img/destinyBootstrap.jpg);
+    background-position: center;
+    height: 40px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 50%, 100% 50%, 100% 0, 0 0);
+    transition: 2s;
+}
+#destinyBS:hover{
+    background-image: url(../img/destinyBootstrap.jpg);
+    background-position: center;
+    height: 233px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 100%, 100% 100%, 100% 0, 0 0);
+    transition: 2s;
+    margin-bottom: 5px;
+}
+
+#yDHtml{
+    background-image: url(../img/yourDestinyHtml.jpg);
+    background-position: center;
+    height: 40px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 50%, 100% 50%, 100% 0, 0 0);
+    transition: 2s;
+}
+#yDHtml:hover{
+    background-image: url(../img/yourDestinyHtml.jpg);
+    background-position: center;
+    height: 233px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 100%, 100% 100%, 100% 0, 0 0);
+    transition: 2s;
+    margin-bottom: 5px;
+}
+
+#rBC{
+    background-image: url(../img/replyBongoCat.jpg);
+    background-position: center;
+    height: 40px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 50%, 100% 50%, 100% 0, 0 0);
+    transition: 2s;
+}
+#rBC:hover{
+    background-image: url(../img/replyBongoCat.jpg);
+    background-position: center;
+    height: 233px;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 100%, 100% 100%, 100% 0, 0 0);
+    transition: 2s;
+    margin-bottom: 5px;
+}
